@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecast
 
-[![make.fun](https://make.fun/badge/makefun.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/badge/bounty.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![make.fun entry](https://make.fun/badge/entry.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/dockerhack/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/dockerhack/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 Forecast, for every trophy of Grand Theft Auto VI on PlayStation 5, its earn
 rate on Exophase at 2026-11-26T00:00:00Z — five quantiles (0.05, 0.25, 0.5,
